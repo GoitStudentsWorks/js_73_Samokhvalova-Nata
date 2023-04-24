@@ -2,10 +2,10 @@
   "name": "filmoteka",
   "version": "1.0.0",
   "description": "GOIT, 2023,  JS-73, Project Group-8 (Interspace) Team project",
-  "homepage": "https://Samokhvalova-Nata.github.io/filmoteka",
+  "homepage": "https://GoitStudentsWorks.github.io/GoitStudentsWorks",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /GoitStudentsWorks/"
   },
   "repository": {
     "type": "git",
